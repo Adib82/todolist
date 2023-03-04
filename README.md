@@ -1,2 +1,2 @@
-# todolist
-membuat crud todolist
+# kasir PHP
+# Percobaan CRUD PHP GDSC IT Telkom Surabaya
